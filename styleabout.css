@@ -1,0 +1,52 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+nav {
+    position: absolute;
+}
+
+a:link {
+    color: white; 
+}
+
+a:visited {
+    color:white ;
+}
+
+a:hover {
+    color:papayawhip ;
+}
+
+a:active {
+    color:papayawhip ;
+}
+
+#manual101:link {
+    color: green; 
+}
+
+#manual101:visited {
+    color:green;
+}
+
+#manual101:hover {
+    color:turquoise ;
+}
+
+#manual101:active {
+    color:turquoise ;
+}
